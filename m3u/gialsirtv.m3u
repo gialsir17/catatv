@@ -4,11 +4,9 @@ http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina 
 http://101.mipsplayer.net:8088/adfree/latinachannel/playlist.m3u8?id=267632&wowzasessionid=3765028845&pk=29f59e4efdaac2a43aba6c6d7e0093e0e4e5b0cb26c077ff1b5b08fa542b6197
 #EXTINF:-1 tvg-logo="http://pasedeldesprecio.com/wp-content/uploads/2015/08/400x400_logocable_0.jpg" group-title="PERU",Perú Mágico
-
-http://iptvplayer.xyz:8181/streaming/px/directv.m3u8?token=a8841ece868cae88719edc043e82c8d51a56b651aee97620
+http://iptvplayer.xyz:8181/streaming/px/directv.m3u8?token=ef09dbf1a3ee4922d0606b4777e8b613ba6d6232bd345a98
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/640px-América_Televisión.svg.png" group-title="PERU", America 
-http://iptvplayer.xyz:8181/streaming/px/america.m3u8?token=a8841ece868cae88719edc043e82c8d51a56b651aee97620
-#EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana
+http://iptvplayer.xyz:8181/streaming/px/america.m3u8?token=ef09dbf1a3ee4922d0606b4777e8b613ba6d6232bd345a98#EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana
 http://stream-03.nyc.dailymotion.com/41/dm/3/x18w5up/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital Música 
 http://uvodscp-lh.akamaihd.net/i/ped002rtmp_1@460476/master.m3u8
@@ -44,92 +42,92 @@ http://megatv.live:80/live/MegaTest/MegaTV/202.ts
 
 
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg" group-title="MEXICO",AZ CORAZON
-http://thenickos.tk/phpf/phpfinal/azcorazon-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/azcorazon-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png" group-title="MEXICO",ESTRELLAS
-http://thenickos.tk/phpf/phpfinal/estrellas_latam-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/estrellas_latam-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8f/75/8f75cb82d12475cf85ac69076ceb9b8a.jpg", group-title="MEXICO",MVS RADIO
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name="Az Mundo" tvg-logo="http://iptvmexico.xyz/logos/png/2072.png", group-title="MEXICO",Az Mundo
-http://thenickos.tk/phpf/phpfinal/azmundo-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/azmundo-q6.php?.m3u8
 
 
 
 **********CINE Y SERIES **********
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWL6AYsGNi7dGmHIcbzZJipToM4sbWvNPcJuwNp3H2UvvngyDYUQ", group-title="CINE Y SERIES",WARNER 
-http://thenickos.tk/phpf/phpfinal/warner-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/warner-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_fox-life_m.png", group-title="CINE Y SERIES",FOX LIFE
-http://thenickos.tk/phpf/phpfinal/f0xlife-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0xlife-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://pixel.nymag.com/imgs/daily/vulture/2015/05/05/05-ae-logo.w1200.h630.jpg", group-title="CINE Y SERIES",A&E
-http://thenickos.tk/phpf/phpfinal/aehd-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/aehd-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Axn_global.png", group-title="CINE Y SERIES",AXN 
-http://thenickos.tk/phpf/phpfinal/axn-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/axn-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/640px-Canal_Sony_logo.svg.png", group-title="CINE Y SERIES",SONY 
-http://thenickos.tk/phpf/phpfinal/sony-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/sony-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRbFXifQrPaNc_kjZ22zHaJ38NF6ofyxiXM65LGeZJG-z8-3FmcUDg1QIR", group-title="CINE Y SERIES",ID
-http://thenickos.tk/phpf/phpfinal/idhd-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/idhd-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/640px-Universal_Channel_Logo_2013.svg.png", group-title="CINE Y SERIES",UNIVERSAL CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png", group-title="CINE Y SERIES",FOX 
-http://thenickos.tk/phpf/phpfinal/f0x-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0x-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/640px-FX_International_logo.svg.png", group-title="CINE Y SERIES",FX
-http://thenickos.tk/phpf/phpfinal/fx-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/fx-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/640px-TNT_Logo_2016.svg.png", group-title="CINE Y SERIES",TNT
-http://thenickos.tk/phpf/phpfinal/tnt-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/tnt-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", group-title="CINE Y SERIES",TNT SERIES
-http://thenickos.tk/phpf/phpfinal/tnt_ser-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/tnt_ser-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/640px-Comedy_Central_2011_Logo.svg.png", group-title="CINE Y SERIES",COMEDY CENTRAL
-http://thenickos.tk/phpf/phpfinal/cc-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/cc-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/640px-TruTV_2014.svg.png", group-title="CINE Y SERIES",TRUTV 
-http://thenickos.tk/phpf/phpfinal/trutv_hd-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/trutv_hd-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/2000px-Cinema%2B_logo.svg.png"  group-title="CINE Y SERIES",CINEMA +
-http://thenickos.tk/phpf/phpfinal/cinemaplus-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/cinemaplus-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/Golden-Premier-logo.png"  group-title="CINE Y SERIES",GOLDEN PREMIER 
-http://thenickos.tk/phpf/phpfinal/goldp-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/goldp-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://i.televisa.com/2017/04/logo_de_pelicula.jpg"  group-title="CINE Y SERIES",DE PELICULA 
-http://thenickos.tk/phpf/phpfinal/depelicula-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/depelicula-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/640px-Logo_Golden_TV.svg.png"  group-title="CINE Y SERIES",GOLDEN PLUS
-http://thenickos.tk/phpf/phpfinal/golden-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/golden-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png"  group-title="CINE Y SERIES",GOLDEN
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png"  group-title="CINE Y SERIES",SUNDANCE
-http://thenickos.tk/phpf/phpfinal/sundance-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/sundance-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png"  group-title="CINE Y SERIES",SPACE
-http://thenickos.tk/phpf/phpfinal/space-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/space-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png"  group-title="CINE Y SERIES",AMC
-http://thenickos.tk/phpf/phpfinal/amc-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/amc-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/09/paramount-network-logo_highres.jpg"  group-title="CINE Y SERIES",PARAMOUNT
-http://thenickos.tk/phpf/phpfinal/param-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/param-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png"  group-title="CINE Y SERIES",CINEMAX
-http://thenickos.tk/phpf/phpfinal/c1nemax-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/c1nemax-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg"  group-title="CINE Y SERIES",STUDIO UNIVERSAL
-http://thenickos.tk/phpf/phpfinal/stdio_univ-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/stdio_univ-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"  group-title="CINE Y SERIES",MULTIPREMIER
-http://thenickos.tk/phpf/phpfinal/multipremier-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/multipremier-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png"  group-title="CINE Y SERIES",CINELATINO
-http://thenickos.tk/phpf/phpfinal/cinelatino-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/cinelatino-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_cinecanal-hd_m.png"  group-title="CINE Y SERIES",CINECANAL
-http://thenickos.tk/phpf/phpfinal/cinecanal-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/cinecanal-q6.php?.m3u8
 #EXTINF:-1 tvg-logo=" https://mark.trademarkia.com/logo-images/claro-sa/claro-cinema-86830508.jpg"  group-title="CINE Y SERIES",CLARO CINEMA
-http://thenickos.tk/phpf/phpfinal/clr_cinema-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/clr_cinema-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/7ed0e4d7e0879491114a0ee9ddb59f7d.jpg", group-title="ENTRETENIMIENTO", CANAL CLARO
-http://thenickos.tk/phpf/phpfinal/canal_kloro-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/canal_kloro-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.todotvnews.com/gallery/resize1_logonuevopasiones960.jpg", group-title="ENTRETENIMIENTO", PASIONES 
-http://thenickos.tk/phpf/phpfinal/pasiones-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/pasiones-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png"  group-title="CINE Y SERIES",CINE DINAMITA
-http://thenickos.tk/phpf/phpfinal/cinema_dinamita-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/cinema_dinamita-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/640px-FX_Movies_logo.svg.png"  group-title="CINE Y SERIES",FXM
-http://thenickos.tk/phpf/phpfinal/fxm-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/fxm-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/704764031819771904/yl4O9YOo.jpg"  group-title="CINE Y SERIES",ISAT
-http://thenickos.tk/phpf/phpfinal/isat-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/isat-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png"  group-title="CINE Y SERIES",EUROCHANNEL
-http://thenickos.tk/phpf/phpfinal/eurochannel-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/eurochannel-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png"  group-title="CINE Y SERIES",TBS
-http://thenickos.tk/phpf/phpfinal/tbs-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/tbs-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png"  group-title="CINE Y SERIES",SYFY
 http://iptvplayer.xyz:8181/streaming/latin/syfy.m3u8?token=5e8c1d73c4120a8427f5408bbc1a0851159eedcc6cc8045e
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic7/3C648AE0-E34A-1D38-752984F87F1521DD.jpg", group-title="ENTRETENIMIENTO",LIFETIME
-http://thenickos.tk/phpf/phpfinal/lifetime-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/lifetime-q4.php?.m3u8
 
 
 
@@ -137,40 +135,40 @@ http://thenickos.tk/phpf/phpfinal/lifetime-q4.php?.m3u8
 
 **********FOX PREMIUM**********
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_fox1.png"  group-title="FOX PREMIUM",FOX SERIES
-http://thenickos.tk/phpf/phpfinal/f0x_series-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0x_series-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxaction.png"  group-title="FOX PREMIUM",FOX ACTION 
-http://thenickos.tk/phpf/phpfinal/f0x_action-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0x_action-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxmovies.png"  group-title="FOX PREMIUM",FOX MOVIES
-http://thenickos.tk/phpf/phpfinal/f0x_movies-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0x_movies-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxcomedy.png"  group-title="FOX PREMIUM",FOX COMEDY 
-http://thenickos.tk/phpf/phpfinal/f0x_comedy-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0x_comedy-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxfamily.png"  group-title="FOX PREMIUM",FOX FAMILY
-http://thenickos.tk/phpf/phpfinal/f0x_family-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0x_family-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxcinema.png"  group-title="FOX PREMIUM",FOX CINEMA 
-http://thenickos.tk/phpf/phpfinal/f0x_cinema-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0x_cinema-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxclassics.png"  group-title="FOX PREMIUM",FOX CLASSICS 
-http://thenickos.tk/phpf/phpfinal/f0x_classics-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0x_classics-q6.php?.m3u8
 
 
 
 **********HBO MAX**********
 
 #EXTINF:-1 tvg-logo="http://www.987thebull.com/wp-content/uploads/2017/08/abcnewsradioonline.comE_hbologo_07202017-f13256e730c2069a7792c71025f4c150b56b02e8.jpg"  group-title="HBO MAX",HBO
-http://thenickos.tk/phpf/phpfinal/hb0hd-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/hb0hd-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.ilovesatellitetv.com/images/hbo-2.jpg"  group-title="HBO MAX",HBO 2  
-http://thenickos.tk/phpf/phpfinal/hb02-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/hb02-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png"  group-title="HBO MAX",HBO FAMILY
-http://thenickos.tk/phpf/phpfinal/hb0fam-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/hb0fam-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  group-title="HBO MAX",HBO PLUS
-http://thenickos.tk/phpf/phpfinal/hb0plus-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/hb0plus-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/640px-HBO_Signature.svg.png"  group-title="HBO MAX",HBO SIGNATURE
-http://thenickos.tk/phpf/phpfinal/hb0sign-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/hb0sign-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Max_logo.png/640px-Max_logo.png"  group-title="HBO MAX",MAX
-http://thenickos.tk/phpf/phpfinal/m4x-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/m4x-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/640px-Max_Prime_2012_logo.svg.png"  group-title="HBO MAX",MAX PRIME
-http://thenickos.tk/phpf/phpfinal/m4xprime-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/m4xprime-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png"  group-title="HBO MAX",MAX UP
-http://thenickos.tk/phpf/phpfinal/m4xup-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/m4xup-q6.php?.m3u8
 
 
 
@@ -180,21 +178,21 @@ http://thenickos.tk/phpf/phpfinal/m4xup-q6.php?.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/tvnovelas/img/2012-05-16-Corazon-valiente-logo.gif", group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
-http://thenickos.tk/phpf/phpfinal/telemun_int-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/telemun_int-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg", group-title="ENTRETENIMIENTO",HOLA TV
-http://thenickos.tk/phpf/phpfinal/hola-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/hola-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.televalltv.net/images/unicable.jpg", group-title="ENTRETENIMIENTO",UNICABLE
-http://thenickos.tk/phpf/phpfinal/unicable-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/unicable-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/co_concert-channel-hd_m.png", group-title="ENTRETENIMIENTO",CONCERT CHANEL 
-http://thenickos.tk/phpf/phpfinal/concert-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/concert-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png", group-title="ENTRETENIMIENTO",!E
-http://thenickos.tk/phpf/phpfinal/e_ent-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/e_ent-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Tlnovelas_%28TV_network%29_logo.jpg", group-title="ENTRETENIMIENTO",TLNOVELAS
-http://thenickos.tk/phpf/phpfinal/rcn_tln-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/rcn_tln-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", group-title="ENTRETENIMIENTO", RCN_TELENOVELAS
-http://thenickos.tk/phpf/phpfinal/rcn_tln-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/rcn_tln-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://maschic.com/img/logo.jpg", group-title="ENTRETENIMIENTO", MASCHIC
-http://thenickos.tk/phpf/phpfinal/mas_chic-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/mas_chic-q6.php?.m3u8
 
 
 
@@ -202,35 +200,35 @@ http://thenickos.tk/phpf/phpfinal/mas_chic-q6.php?.m3u8
 
 *********** MUNDO Y CULTURA **********
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-world-hd_m.png", group-title="MUNDO Y CULTURA",DISCOVERY WORLD
-http://thenickos.tk/phpf/phpfinal/disc_world-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/disc_world-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3WI4idjadiNHG0OkUdfuf4-Bw_XA8dTIXgrLyXUpPMcjBRCDTbDDEkD1fQ", group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
-http://thenickos.tk/phpf/phpfinal/disc_ch-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/disc_ch-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/640px-2015_Discovery_theater_HD_logo.svg.png", group-title="MUNDO Y CULTURA",DISCOVERY THEATER 
-http://thenickos.tk/phpf/phpfinal/disc_theater-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/disc_theater-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-civilization_m.png", group-title="MUNDO Y CULTURA",DISCOVERY CIVILIZACION 
-http://thenickos.tk/phpf/phpfinal/disc_civil-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/disc_civil-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-civilization_m.png", group-title="MUNDO Y CULTURA",DISCOVERY SCINCE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="MUNDO Y CULTURA", DISCOVERY H&H
-http://thenickos.tk/phpf/phpfinal/disc_hh-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/disc_hh-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/cb/El_Gourmet.png/revision/latest?cb=20160712151650" group-title="MUNDO Y CULTURA",EL GOURMET  
-http://thenickos.tk/phpf/phpfinal/elgourmet-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/elgourmet-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-7JDAiCd2-i0/ThNJK9GKa1I/AAAAAAAAPx8/rz-Ckrv_sgs/s1600/glitz.png" group-title="MUNDO Y CULTURA",GLITZ  
-http://thenickos.tk/phpf/phpfinal/glitz-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/glitz-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.animalplanethd.png.f733327e29472ff87fbf9ade1b3e9e76.png", group-title="MUNDO Y CULTURA",ANIMAL PLANET 
-http://thenickos.tk/phpf/phpfinal/anim_planet-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/anim_planet-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/640px-History_Logo.svg.png", group-title="MUNDO Y CULTURA",HISTORY 
-http://thenickos.tk/phpf/phpfinal/history-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/history-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-1t--HymneU0/T5BFdtnTOcI/AAAAAAAAAIg/Gux1AsElanc/s1600/History%2B2%2Blogo%2B2011.png", group-title="MUNDO Y CULTURA",H2
-http://thenickos.tk/phpf/phpfinal/h2-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/h2-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", group-title="MUNDO Y CULTURA",NAT GEO  
-http://thenickos.tk/phpf/phpfinal/natgeo-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/natgeo-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png", group-title="MUNDO Y CULTURA",NAT GEO WILD
-http://thenickos.tk/phpf/phpfinal/natgeo_wild-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/natgeo_wild-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5649_2_31784.png", group-title="MUNDO Y CULTURA",DISCOVERY TURBO
-http://thenickos.tk/phpf/phpfinal/disc_turbo-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/disc_turbo-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_TLC.svg/1280px-Logo_TLC.svg.png", group-title="MUNDO Y CULTURA",TLC 
-http://thenickos.tk/phpf/phpfinal/tlc-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/tlc-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.tafimedia.com/tafiimage/70.png" group-title="MUNDO Y CULTURA",World Fashion 
 http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://images.lacarmina.com/homepage/content/publishers_travel.png" group-title="MUNDO Y CULTURA",Travel HD 
@@ -248,15 +246,15 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 ********** INTERNACIONAL *********
 
 #EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png", group-title="INTERNACIONAL",CARACOL 
-http://thenickos.tk/phpf/phpfinal/caracol-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/caracol-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Arirang.svg", group-title="INTERNACIONAL",ARIRANG  
-http://thenickos.tk/phpf/phpfinal/arirang-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/arirang-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000182324672/d1a0bf90407251f0e40566b4450c3081_400x400.png", group-title="INTERNACIONAL",TV5
-http://thenickos.tk/phpf/phpfinal/tv5-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/tv5-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg", group-title="INTERNACIONAL",DHE
-http://thenickos.tk/phpf/phpfinal/dhe-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/dhe-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://images.vertele.eldiario.es/2017/05/03/NOTICIAS/Antena-renueva-corporativa-logotipo-autopromos_1899420059_8398569_660x371.jpg", group-title="INTERNACIONAL",ANTENA 3
-http://thenickos.tk/phpf/phpfinal/antena3-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/antena3-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923912614085779457/_GjcRH2B.jpg", group-title="INTERNACIONAL",UNICANAL
 http://strm.unicanal.com.py/live/unicanal_src.m3u8
 
@@ -265,17 +263,17 @@ http://strm.unicanal.com.py/live/unicanal_src.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/768px-FRANCE_24_logo.svg.png", group-title="NOTICIAS",FRANCE24 
-http://thenickos.tk/phpf/phpfinal/france24-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/france24-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f.jpg", group-title="NOTICIAS",CNN INTERNACIONAL
-http://thenickos.tk/phpf/phpfinal/cnni-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/cnni-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f.jpg", group-title="NOTICIAS",CNN EN ESPAÑOL
-http://thenickos.tk/phpf/phpfinal/cnnee-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/cnnee-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.fsroundtable.org/wp-content/uploads/2014/07/bloomberg-web-logo.png", group-title="NOTICIAS",BLOOMBERG
-http://thenickos.tk/phpf/phpfinal/bloomberg-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/bloomberg-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/918480715158716419/4X8oCbge.jpg", group-title="NOTICIAS",FOX NEWS
-http://thenickos.tk/phpf/phpfinal/foxnews-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/foxnews-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.cableNOTICIAS.tv/images/logoCableCabezote.png", group-title="NOTICIAS",CABLENOTICIAS
-http://thenickos.tk/phpf/phpfinal/cablenoticias-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/cablenoticias-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://k61.kn3.net/E/2/C/5/B/9/8BE.png" group-title="NOTICIAS", Aire Santa Fe Argentina
 http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/mileniotv.png" group-title="NOTICIAS", Milenio TV
@@ -289,31 +287,31 @@ http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/hn_disney-hd_m.png", group-title="NIÑOS",DISNEY CHANNEL
-http://thenickos.tk/phpf/phpfinal/d1sney-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/d1sney-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2012/02/nickjr-1.png", group-title="NIÑOS",NICK JR
-http://thenickos.tk/phpf/phpfinal/nickjr-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/nickjr-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png", group-title="NIÑOS",NATGEOKIDS 
-http://thenickos.tk/phpf/phpfinal/natgeo_kids-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/natgeo_kids-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/nick-2.png", group-title="NIÑOS",NICK 2
-http://thenickos.tk/phpf/phpfinal/nick2-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/nick2-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/640px-2016_Discovery_Kids_logo.svg.png", group-title="NIÑOS",DISCOVERY KIDS 
-http://thenickos.tk/phpf/phpfinal/disc_kids-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/disc_kids-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png", group-title="NIÑOS",CARTOON NETWORK 
-http://thenickos.tk/phpf/phpfinal/cart_net-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/cart_net-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/1280px-Nickelodeon_logo_new.svg.png", group-title="NIÑOS",NICKELODEON 
-http://thenickos.tk/phpf/phpfinal/nick-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/nick-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/640px-Boomerang_2014_logo.svg.png", group-title="NIÑOS",BOOMERANG 
-http://thenickos.tk/phpf/phpfinal/boomerang-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/boomerang-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMnS4g6KqCq3xu32Ae8lCzlVy5mCjdwmx7V-kR2hxCZQkExTtSU-Rtdxcs", group-title="NIÑOS",TIIN
 hls://http://www.iptvmexico.xyz/208.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/640px-Disney_XD_-_2015.svg.png", group-title="NIÑOS", DISNEY XD
-http://thenickos.tk/phpf/phpfinal/d1sneyxd-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/d1sneyxd-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", group-title="NIÑOS", BABYTV
-http://thenickos.tk/phpf/phpfinal/babytv-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/babytv-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/3/6/366728.png", group-title="NIÑOS",DISNEY JR
-http://thenickos.tk/phpf/phpfinal/d1sneyjr-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/d1sneyjr-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://damianaliberti.com/wp-content/uploads/2015/06/Screen-Shot-2016-09-13-at-3.46.08-PM-e1474616461736.png", group-title="NIÑOS",TOONCAST
-http://thenickos.tk/phpf/phpfinal/tooncast-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/tooncast-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61mXXUQVTPL.jpg", group-title="NIÑOS",ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
@@ -324,43 +322,43 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuNU0A_OJm2yjd4srYEpgVNB_Izt5ZVzxovyevcHy_-a1ycSM_ZRNANUs2", group-title="MUSICA",MTV 
-http://thenickos.tk/phpf/phpfinal/mtvhd-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/mtvhd-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/pynRjJBA1BtRD0kSuJ5rtjuSoStf__KUQKql7Y4J5UMZ6fetqnlTbaX3qVvDd-mRwdEy9Ykj0OtnUatEM97WVBvr0Z8wANIG2TI8BwL3Bigzxmp5SjMnctFQ-uNH3A2i0NkU5E6W38UYd-LQe-vbgZ8=w384-h384-nc", group-title="MUSICA",MTV LIVE
-http://thenickos.tk/phpf/phpfinal/mtvl1ve-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/mtvl1ve-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTI8Voye3DhUZ5DPSJAgKpegrsEVc_ASbIcNWaXkQmfQdhyx4tug", group-title="MUSICA",MTV HITS
-http://thenickos.tk/phpf/phpfinal/mtvhits-q4.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/mtvhits-q4.php?.m3u8
 
 
 **********DEPORTES**********
 
 #EXTINF:-1 tvg-logo="http://gaia.adage.com/images/bin/image/x-large/espn_logo.jpg", group-title="DEPORTES",ESPN 
-http://thenickos.tk/phpf/phpfinal/espn-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/espn-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.espni.go.com/video/images/espn2-south_2015_1443617937818.png", group-title="DEPORTES",ESPN 2 
-http://thenickos.tk/phpf/phpfinal/espn2-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/espn2-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.tele-envivo.com/wp-content/uploads/2016/07/espn-3-online.png", group-title="DEPORTES",ESPN 3
-http://thenickos.tk/phpf/phpfinal/espn3-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/espn3-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.tele-envivo.com/wp-content/uploads/2016/07/espn-3-online.png", group-title="DEPORTES",ESPN +
-http://thenickos.tk/phpf/phpfinal/espn_plus-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/espn_plus-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0032_fox_sports.png", group-title="DEPORTES",FOX SPORTS 
-http://thenickos.tk/phpf/phpfinal/f0xsports-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0xsports-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-IzTlbnOXHB0/We5j30Qf7dI/AAAAAAAAAUY/N5FWNjidtxcbSIj3gXHkooSDOymK-Q2YwCLcBGAs/s1600/foxsports2.png", group-title="DEPORTES",FOX SPORTS 2
-http://thenickos.tk/phpf/phpfinal/f0xsports2-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0xsports2-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png", group-title="DEPORTES",FOX SPORTS 3
-http://thenickos.tk/phpf/phpfinal/f0xsports3-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0xsports3-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0032_fox_sports.png", group-title="DEPORTES",FOX SPORTS MEXICO
-http://thenickos.tk/phpf/phpfinal/f0xsportsmx-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0xsportsmx-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-IzTlbnOXHB0/We5j30Qf7dI/AAAAAAAAAUY/N5FWNjidtxcbSIj3gXHkooSDOymK-Q2YwCLcBGAs/s1600/foxsports2.png", group-title="DEPORTES",FOX SPORTS 2 MEXICO
-http://thenickos.tk/phpf/phpfinal/f0xsports2mx-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0xsports2mx-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png", group-title="DEPORTES",FOX SPORTS 3 MEXICO
-http://thenickos.tk/phpf/phpfinal/f0xsports3mx-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/f0xsports3mx-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://tele-envivo.com/wp-content/uploads/2015/12/winsports.jpg", group-title="DEPORTES",WIN SPORTS 
-http://thenickos.tk/phpf/phpfinal/winsports-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/winsports-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://www.golfchannel-la.com/wp-content/themes/golfchannel/images/assests/logo-golf.png", group-title="DEPORTES",GOLF CHANNEL
-http://thenickos.tk/phpf/phpfinal/golfchannel-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/golfchannel-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png", group-title="DEPORTES",CLARO SPORTS  
-http://thenickos.tk/phpf/phpfinal/clspo-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/clspo-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png", group-title="DEPORTES",CLARO SPORTS 2
-http://thenickos.tk/phpf/phpfinal/clspoco-q6.php?.m3u8
+http://thenickos.tk/nojodas/quieresmas/clspoco-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="http://images.vertele.eldiario.es/2016/10/10/NOTICIAS/Real-Madrid-TV_1837926248_1697220_320x180.jpg", group-title="DEPORTES",REAL MADRID
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png", group-title="DEPORTES",REDBULL
@@ -575,6 +573,7 @@ http://184.154.28.210:1935/rbc-tv/rbc-tv/chunklist_w1710538556.m3u8
 http://stream-04.nyc.dailymotion.com/55/dm/3/x5cu636/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1c/Cultura_24_logo.png/revision/latest?cb=20091217074206", group-title="REGIONALES",CULTURA 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1170192130_b564000_sles.m3u8
+
 
 
 
