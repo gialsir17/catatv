@@ -4,9 +4,9 @@ http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina 
 http://101.mipsplayer.net:8088/adfree/latinachannel/playlist.m3u8?id=267632&wowzasessionid=3765028845&pk=29f59e4efdaac2a43aba6c6d7e0093e0e4e5b0cb26c077ff1b5b08fa542b6197
 #EXTINF:-1 tvg-logo="http://pasedeldesprecio.com/wp-content/uploads/2015/08/400x400_logocable_0.jpg" group-title="PERU",Perú Mágico
-http://iptvplayer.xyz:8181/streaming/px/directv.m3u8?token=ef09dbf1a3ee4922d0606b4777e8b613ba6d6232bd345a98
+http://iptvplayer.xyz:8181/streaming/px/directv.m3u8?token=c23ab9dd9c4ae848ea636ae804340dc8662c0406eead72f3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/640px-América_Televisión.svg.png" group-title="PERU", America 
-http://iptvplayer.xyz:8181/streaming/px/america.m3u8?token=ef09dbf1a3ee4922d0606b4777e8b613ba6d6232bd345a98
+http://iptvplayer.xyz:8181/streaming/px/america.m3u8?token=c23ab9dd9c4ae848ea636ae804340dc8662c0406eead72f3
 #EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana
 http://stream-03.nyc.dailymotion.com/41/dm/3/x18w5up/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital Música 
