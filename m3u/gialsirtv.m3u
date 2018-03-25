@@ -188,8 +188,6 @@ http://hackveneno.tk/panelxcodes/stream/channels/unicable-q4.php?.m3u8
 http://hackveneno.tk/panelxcodes/stream/channels/concert-q6.php?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png", group-title="ENTRETENIMIENTO",!E
 http://hackveneno.tk/panelxcodes/stream/channels/e_ent-q6.php?.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Tlnovelas_%28TV_network%29_logo.jpg", group-title="ENTRETENIMIENTO",TLNOVELAS
-http://hackveneno.tk/panelxcodes/stream/channels/rcn_tln-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", group-title="ENTRETENIMIENTO", RCN_TELENOVELAS
 http://hackveneno.tk/panelxcodes/stream/channels/rcn_tln-q4.php?.m3u8
 #EXTINF:-1 tvg-logo="http://maschic.com/img/logo.jpg", group-title="ENTRETENIMIENTO", MASCHIC
@@ -237,7 +235,6 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="MUNDO Y CULTURA",NASA Public 
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="MUNDO Y CULTURA",NASA Media 
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8 
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="MUNDO Y CULTURA",NASA Space Station 
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8 
