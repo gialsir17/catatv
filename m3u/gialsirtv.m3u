@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU", Digital Tv Perú 
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina 
-http://101.mipsplayer.net:8088/adfree/latinachannel/playlist.m3u8?id=267632&wowzasessionid=3765028845&pk=29f59e4efdaac2a43aba6c6d7e0093e0e4e5b0cb26c077ff1b5b08fa542b6197
+http://102.mipsplayer.net:8088/adfree/latinachannel/playlist.m3u8?id=267632&wowzasessionid=3199522416&pk=4a50716bf983fe260d56fbc4290850aac1709e9a084c2147974f909ff413d4e9
 #EXTINF:-1 tvg-logo="http://pasedeldesprecio.com/wp-content/uploads/2015/08/400x400_logocable_0.jpg" group-title="PERU",Perú Mágico
-http://iptvplayer.xyz:8181/streaming/px/directv.m3u8?token=eab4fb30ffa49a8aa648ccea4916938012e176b8eb08c00c
+http://iptvplayer.xyz:8181/streaming/px/directv.m3u8?token=21b07a126c31317b14591e1caf00bf0d8466d7fc0ebf78cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/640px-América_Televisión.svg.png" group-title="PERU", America 
-http://iptvplayer.xyz:8181/streaming/px/america.m3u8?token=eab4fb30ffa49a8aa648ccea4916938012e176b8eb08c00c
+http://iptvplayer.xyz:8181/streaming/px/america.m3u8?token=21b07a126c31317b14591e1caf00bf0d8466d7fc0ebf78cf
 #EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana
 http://stream-03.nyc.dailymotion.com/41/dm/3/x18w5up/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital Música 
@@ -28,7 +28,7 @@ http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Movistar_Deportes_%28Peru%29_-_2017_logo.png/1280px-Movistar_Deportes_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Deportes
 http://megatv.live/live/MegaTest/MegaTV/201.ts
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/golperu.png" group-title="PERU",Gol Peru
-http://112.mipsplayer.net:8088/adfree/golperusd/playlist.m3u8?id=267625&wowzasessionid=447256092&pk=29f59e4efdaac2a43aba6c6d7e0093e0e4e5b0cb26c077ff1b5b08fa542b6197
+http://102.mipsplayer.net:8088/adfree/golperusd/playlist.m3u8?id=267625&wowzasessionid=7389781410&pk=4a50716bf983fe260d56fbc4290850aac1709e9a084c2147974f909ff413d4e9
 #EXTINF:-1 tvg-logo="http://cde.canaln.pe/canal-n-cumple-18-anos-informando-peruanos-399x399-381488.jpg" group-title="PERU",Canal N
 http://megatv.live:80/live/MegaTest/MegaTV/19.ts
 #EXTINF:-1 tvg-logo="http://movistarplus.pe/assets/images/logo-plus-tv.png" group-title="PERU",Plus Tv
