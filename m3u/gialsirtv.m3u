@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU", Digital Tv Perú 
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina 
-http://102.mipsplayer.net:8088/adfree/latinachannel/playlist.m3u8?id=267632&wowzasessionid=3199522416&pk=4a50716bf983fe260d56fbc4290850aac1709e9a084c2147974f909ff413d4e9
+http://tvpremiumhd.club/lista-gratuita/touch/mu213.ts
 #EXTINF:-1 tvg-logo="http://pasedeldesprecio.com/wp-content/uploads/2015/08/400x400_logocable_0.jpg" group-title="PERU",Perú Mágico
-http://iptvplayer.xyz:8181/streaming/px/directv.m3u8?token=5cfd4477eb52c61289cce9e7be61d08ce1d25cf9a129a479
+http://tvpremiumhd.club/lista-gratuita/touch/mu86.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/640px-América_Televisión.svg.png" group-title="PERU", America 
-http://iptvplayer.xyz:8181/streaming/px/america.m3u8?token=5cfd4477eb52c61289cce9e7be61d08ce1d25cf9a129a479
+http://tvpremiumhd.club/lista-gratuita/touch/mu62.ts
 #EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana
 http://stream-03.nyc.dailymotion.com/41/dm/3/x18w5up/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital Música 
@@ -18,7 +18,7 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="PERU", ATV
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo="http://willax.tv/static/images/facebook-logo.jpg" group-title="PERU",Willax
-https://secure-playlist.livestream.com/streams/26619010_7987650_lsiybynckm5ukajo5pf_1/media/26619010_7987650_lsiybynckm5ukajo5pf_1@2756000pb.m3u8?dw=14400&token=1521836944_cc7f90289c04da4b4fe8dba050926123ce516c7b&ts=1521662400
+http://tvpremiumhd.club/lista-gratuita/touch/mu156.ts
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_07/thumb.ipetvperu.png.f94abbc1ba13779b58cd82e268a00939.png" group-title="PERU",IPE 
 https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTke_EASU9yQ0rfTxEK-597WaZxjqIEicZXyPWMcot51pZQ8fSoPCVMq2hg" group-title="PERU", ATV +
@@ -26,15 +26,17 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/NEXTV_PERU_LOGOBETA.png" group-title="PERU",NEX TV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Movistar_Deportes_%28Peru%29_-_2017_logo.png/1280px-Movistar_Deportes_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Deportes
-http://megatv.live/live/MegaTest/MegaTV/201.ts
+http://tvpremiumhd.club/lista-gratuita/touch/mu61.ts
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/golperu.png" group-title="PERU",Gol Peru
-http://102.mipsplayer.net:8088/adfree/golperusd/playlist.m3u8?id=267625&wowzasessionid=7389781410&pk=4a50716bf983fe260d56fbc4290850aac1709e9a084c2147974f909ff413d4e9
+http://tvpremiumhd.club/lista-gratuita/touch/mu23.ts
 #EXTINF:-1 tvg-logo="http://cde.canaln.pe/canal-n-cumple-18-anos-informando-peruanos-399x399-381488.jpg" group-title="PERU",Canal N
-http://megatv.live:80/live/MegaTest/MegaTV/19.ts
+http://tvpremiumhd.club/lista-gratuita/touch/mu66.ts
 #EXTINF:-1 tvg-logo="http://movistarplus.pe/assets/images/logo-plus-tv.png" group-title="PERU",Plus Tv
-http://megatv.live:80/live/MegaTest/MegaTV/202.ts
-
-
+http://tvpremiumhd.club/lista-gratuita/touch/mu64.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/NEXTV_PERU_LOGOBETA.png" group-title="PERU",NEX TV
+http://tvpremiumhd.club/lista-gratuita/touch/mu68.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg", group-title="REGIONALES",BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w2078391041.m3u8
 
 
 
