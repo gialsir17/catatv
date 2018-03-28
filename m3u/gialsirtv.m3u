@@ -26,7 +26,7 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/NEXTV_PERU_LOGOBETA.png" group-title="PERU",NEX TV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Movistar_Deportes_%28Peru%29_-_2017_logo.png/1280px-Movistar_Deportes_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Deportes
-http://tvpremiumhd.club/lista-gratuita/touch/mu61.ts
+http://B36614.cdn.telefonica.com/36614/playlist.m3u8?token=1522196378-b00148a0547f1478ceac177420cb4369fce1b901
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/golperu.png" group-title="PERU",Gol Peru
 http://tvpremiumhd.club/lista-gratuita/touch/mu23.ts
 #EXTINF:-1 tvg-logo="http://cde.canaln.pe/canal-n-cumple-18-anos-informando-peruanos-399x399-381488.jpg" group-title="PERU",Canal N
