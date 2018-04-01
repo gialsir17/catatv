@@ -8,7 +8,7 @@ http://cdnh4.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/640px-América_Televisión.svg.png" group-title="PERU", America 
 http://iptvplayer.xyz:8181/streaming/px/america.m3u8?token=69d5be081ade6c2695a6d79b65e680452ee341ed908312bd
 #EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana
-http://stream-03.nyc.dailymotion.com/41/dm/3/x18w5up/live-3.m3u8
+http://stream-03.nyc.dailymotion.com/35/dm/3/x18w5up/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital Música 
 http://uvodscp-lh.akamaihd.net/i/ped002rtmp_1@460476/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
